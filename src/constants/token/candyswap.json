@@ -190,10 +190,10 @@
     {
       "name": "CandySwap Token",
       "symbol": "CANDY",
-      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "address": "0x79F0E5E1C7ce8df82958DAaC85250246f4ba5b8a",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://exchange.candyswap.online/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+      "logoURI": "https://exchange.candyswap.online/images/coins/0x79F0E5E1C7ce8df82958DAaC85250246f4ba5b8a.png"
     },
     {
       "name": "Streamity",

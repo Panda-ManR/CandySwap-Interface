@@ -267,6 +267,7 @@ export function ListSelect({ onDismiss, onBack }: { onDismiss: () => void; onBac
         return 0
       })
   }, [lists])
+
   const TranslateString = useI18n()
   return (
     <Column style={{ width: '100%', flex: '1 1' }}>
